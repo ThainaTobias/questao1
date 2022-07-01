@@ -1,4 +1,4 @@
-
+import "./Button.css"
 function Button({titulo,sub,sub2}) {
 
     return(
